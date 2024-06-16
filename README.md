@@ -3,4 +3,7 @@ Learning Git and GitHub
 
 ## Subheader
 
-Tutorial   
+Git
+- git add
+- git commit
+- git push
