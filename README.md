@@ -4,6 +4,7 @@ Learning Git and GitHub
 ## Subheader
 
 Git
+- git status
 - git add
-- git commit
+- git commit -m "Description" 
 - git push
