@@ -8,3 +8,4 @@ Git
 - git add
 - git commit -m "Description" 
 - git push
+- git ...
