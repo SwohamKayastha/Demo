@@ -20,6 +20,7 @@ Git branch
 - git chekcout -b branch_name
 - git branch
 - git branch -d branch_name
+- git push --set-upstream origin branch/reset
 
 Git reset
 - git reset file_name
