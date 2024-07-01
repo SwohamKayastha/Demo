@@ -11,7 +11,6 @@ Git
 - git ...
 
 Git add new repo locally:
-<<<<<<< HEAD
 - git remote add origin git@github.com:SwohamKayastha/Weather-API.git
 - git branch -M main
 - git push -u origin main
@@ -21,13 +20,3 @@ Git branch
 - git chekcout -b branch_name
 - git branch
 - git branch -d branch_name
-=======
--git remote add origin git@github.com:SwohamKayastha/Weather-API.git
--git branch -M main
--git push -u origin main
-
-Git branch
--git branch
--git chekcout -b branch_name
--git branch
->>>>>>> 5ddf8b5e43f34c4db8ce2efc0d334b12ec35cd55
