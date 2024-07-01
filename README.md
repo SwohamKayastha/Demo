@@ -20,3 +20,6 @@ Git branch
 - git chekcout -b branch_name
 - git branch
 - git branch -d branch_name
+
+Git reset
+- git reset file_name
