@@ -24,3 +24,10 @@ Git branch
 
 Git reset
 - git reset file_name
+
+Git branch remotely added
+- git init
+- git remote add origin <git-url>
+- git add .
+- git commit -m "Description"
+- git push origin HEAD:<new_branch_name>
