@@ -31,3 +31,14 @@ Git branch remotely added
 - git add .
 - git commit -m "Description"
 - git push origin HEAD:<new_branch_name>
+
+Git Merging remote branch and main
+- git fetch origin
+- git branch                            #to check the branches
+- git checkout main
+- git merge remote_branch (optional --allow-unrelated-histories -> vim opens)
+- vim opens
+- i -> INSERT
+- Add any additional information in the commit message
+- Esc -> exit insert mode
+- :wq and Enter -> to save the commit message and exit Vim
