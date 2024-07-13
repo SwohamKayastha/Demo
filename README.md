@@ -42,3 +42,8 @@ Git Merging remote branch and main
 - Add any additional information in the commit message
 - Esc -> exit insert mode
 - :wq and Enter -> to save the commit message and exit Vim
+
+Git accessing a branch
+- git fetch
+- git checkout <branch_name>
+- git branch -a
