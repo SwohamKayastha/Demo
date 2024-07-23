@@ -47,3 +47,11 @@ Git accessing a branch
 - git fetch
 - git checkout <branch_name>
 - git branch -a
+
+Git accessing git-bash name and emails registered
+- git config -l | grep user.name
+- git config -l | grep user.email
+
+Git changing git-bash name and emails registered
+- git config --global user.name "user_name"
+- git config --global user.email "user@example.com"
